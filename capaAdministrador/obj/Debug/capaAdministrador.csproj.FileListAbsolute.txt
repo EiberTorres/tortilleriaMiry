@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\bin\Debug\capaAdministrador.exe.config
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\bin\Debug\capaAdministrador.exe
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\bin\Debug\capaAdministrador.pdb
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\obj\Debug\capaAdministrador.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\obj\Debug\capaAdministrador.Index.resources
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\obj\Debug\capaAdministrador.Login.resources
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\obj\Debug\capaAdministrador.Properties.Resources.resources
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\obj\Debug\capaAdministrador.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\obj\Debug\capaAdministrador.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\obj\Debug\capaAdmi.2CE4430A.Up2Date
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\obj\Debug\capaAdministrador.exe
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\obj\Debug\capaAdministrador.pdb
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\sistemaVentas\capaAdministrador\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml

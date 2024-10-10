@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\bin\Debug\net8.0\capaDatos.exe
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\bin\Debug\net8.0\capaDatos.deps.json
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\bin\Debug\net8.0\capaDatos.runtimeconfig.json
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\bin\Debug\net8.0\capaDatos.dll
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\bin\Debug\net8.0\capaDatos.pdb
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\obj\Debug\net8.0\capaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\obj\Debug\net8.0\capaDatos.AssemblyInfo.cs
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\obj\Debug\net8.0\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\obj\Debug\net8.0\capaDatos.dll
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\obj\Debug\net8.0\refint\capaDatos.dll
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\obj\Debug\net8.0\capaDatos.pdb
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\obj\Debug\net8.0\capaDatos.genruntimeconfig.cache
+C:\Users\Admin\source\repos\sistemaVentas\capaDatos\obj\Debug\net8.0\ref\capaDatos.dll

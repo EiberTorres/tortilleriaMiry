@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\bin\Debug\net8.0\capaEntidad.deps.json
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\bin\Debug\net8.0\capaEntidad.runtimeconfig.json
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\bin\Debug\net8.0\capaEntidad.dll
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\bin\Debug\net8.0\capaEntidad.pdb
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\obj\Debug\net8.0\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\obj\Debug\net8.0\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\obj\Debug\net8.0\capaEntidad.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\obj\Debug\net8.0\capaEntidad.AssemblyInfo.cs
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\obj\Debug\net8.0\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\obj\Debug\net8.0\capaEntidad.dll
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\obj\Debug\net8.0\refint\capaEntidad.dll
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\obj\Debug\net8.0\capaEntidad.pdb
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\obj\Debug\net8.0\capaEntidad.genruntimeconfig.cache
+C:\Users\Admin\source\repos\sistemaVentas\capaEntidad\obj\Debug\net8.0\ref\capaEntidad.dll
